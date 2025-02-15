@@ -78,7 +78,7 @@ This bullet chart below highlights employee satisfaction levels across key areas
 
 ![image](https://github.com/user-attachments/assets/5f5490fc-9fa2-4d59-8c2c-73489a24535c)
 
-## DASHBOARD
+ ## [VIEW DASHBOARD](https://4h8nvq-my.sharepoint.com/:u:/g/personal/timi_4h8nvq_onmicrosoft_com/ETCpnRV_yy5PmdSjRTQbQwEBuVQgL7v_bSN8_IqxA04pgw?e=Y1sUfA)
 ![image](https://github.com/user-attachments/assets/730eb8f5-cfc4-420d-b25e-2e5ecc1035ee)
 
 ## Step 4: Actionable Insights
