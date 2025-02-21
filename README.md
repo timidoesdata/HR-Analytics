@@ -4,7 +4,7 @@ I was tasked with utilizing employee data and performance survey results to supp
 ## Introduction
 The company has been experiencing issues with their employees ranging from high absence to concerning turnover rates, as with customer turnover and complaints. The new HR Director came up with new initiatives such as introducing a wellness app, and conducting a survey to determine employee satisfaction, and engagement at the company. 
 
-I was provided with two datasets which include;
+I was provided with two [datasets](https://docs.google.com/spreadsheets/d/1XLRiFjuKHIYecAcTQkWXvWPA6KgkywOO/edit?usp=sharing&ouid=107860954201781863308&rtpof=true&sd=true) which include;
 - Dashboard data, and;
 - Regression data
 
